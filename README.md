@@ -1,7 +1,7 @@
 # Active Directory Lab
 
 ## Objective
-[Objective Here]
+This Active Directory lab was built to develop practical experience with enterprise identity and access management. The environment includes the creation and management of users, groups, organizational units, and Group Policies while demonstrating fundamental security concepts such as least privilege, account administration, authentication, and access control. The goal is to build hands-on skills commonly used by IT Support, Systems Administration, and Cybersecurity professionals.
 
 ### Skills Demonstrated
 - Active Directory Domain Services (AD DS)
