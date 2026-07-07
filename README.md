@@ -18,15 +18,16 @@ This Active Directory lab was built to develop practical experience with enterpr
 - Active Directory Domain Services
 - Group Policy Management
 - PowerShell
-- AWS EC2 (if applicable)
+- VMware WOrkstation
 
 ### Lab Tasks
-1. Deploy Windows Server
-2. Promote server to Domain Controller
-3. Configure Organizational Units
-4. Create Users and Security Groups
-5. Apply Group Policies
-6. Test Authentication and Permissions
+1. Installing Active Directory on Windows Server on Virtual Machine
+2. Deploy Windows Server
+3. Promote server to Domain Controller
+4. Configure Organizational Units
+5. Create Users and Security Groups
+6. Apply Group Policies
+7. Test Authentication and Permissions
 
 ### Key Takeaways
 - Learned how enterprise environments manage identities and permissions.
