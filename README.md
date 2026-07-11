@@ -14,11 +14,11 @@ This Active Directory lab was built to develop practical experience with enterpr
 - Identity and Access Management (IAM)
 
 ### Technologies Used
+- VMWare Workstation
 - Windows Server 2022
 - Active Directory Domain Services
 - Group Policy Management
 - PowerShell
-- VMware WOrkstation
 
 ### Lab Tasks
 1. Installing Active Directory on Windows Server on Virtual Machine
